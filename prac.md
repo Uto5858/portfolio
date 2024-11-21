@@ -35,15 +35,38 @@ class CSClass
 
 [README](README.md)
 
-<img src="image" alt="こはこは">
+<img src="image/AzusawaKohane_ULTRAC.jpg" alt="こはこは">
 
 <img src="image/FujitaKotone_YellowBigBang.jpg" alt="ことこと">
 
--ジョージワシントン
--ジョンアダムス
--トーマスジェファー
+- ジョージワシントン 
+- ジョンアダムス
+- トーマスジェファー
 
-1.数字リスト
-2.数字リスト2
-3.数字リスト3
+1. 数字リスト
+2. 数字リスト2
+3. 数字リスト3
 
+- レベル1
+   - レベル2
+      - レベル3
+
+1. 数字
+   1. 数字2
+      1. 数字3
+      
+- [ ] タスク
+- [ ] チェックリスト
+- [x] できたらxを入力
+
+- :+1:サムアップ
+
+:smiley:
+
+:link:[README](README.md)
+
+あいうえお。
+
+かきくけこ。
+
+段差は、1行空ける。
