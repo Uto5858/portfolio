@@ -5,7 +5,6 @@
 
 ## 資格
 - ITパスポート試験合格
-- 基本情報処理技術者試験合格(する予定)
 
 ## スキル
 - C#
@@ -16,33 +15,29 @@
   - オリジナルの個人/チーム作品の開発経験あり
 - C/C++
   - 利用歴半年
-  - コンソールで簡単なデータ処理プログラムを開発
+  - コンソールで簡単なデータ処理プログラムを開発可能
 - Python
   - 利用歴1年
   - 簡単なプログラムを開発可能
-  
 
 ## 取り組んでいるテーマ
 1. オリジナルゲーム開発
 
 ## 作品リスト
-
 ### GalaxySTELLA
-[<img src="" alt="GalaxySTELLA">](https://unityroom.com/games/shobako)
-
-[GalaxySTELLA](リンク)
+<img src="image/galaxy.png" alt="GalaxySTELLA">
+<img src="image/galaxy4.png">
 
 弾を撃って侵略してくる地球外生命体を倒していく2Dシューティングゲーム
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2024/9/5-11/9
-- グループ開発作品。DATフェスタにて展示。
+- グループ開発作品。学校の文化祭にて展示。
 - 下記のSPACE SHOOTINGを基に制作。
 
 ### SPACE SHOOTING
-[<img src="" alt="SPACE SHOOTING">](https://am1tanaka.itch.io/wall-walker)
-
-[SPACE SHOOTING](リンク)
+<img src="image/space.png" alt="SPACE SHOOTING">
+<img src="image/space2.png">
 
 GalaxySTELLAとあまり変わらないので割愛
 - 開発環境：Unity2020.3.4f1
-- 開発期間：2024/8/21-8/30
+- 開発期間：2024/8/23-8/30
