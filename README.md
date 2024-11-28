@@ -28,20 +28,22 @@
 <img src="image/galaxy.png" alt="GalaxySTELLA">
 <img src="image/galaxy4.png">
 
-侵略してくる地球外生命体を、弾を撃って倒していく2Dシューティングゲーム
+侵略してくる地球外生命体を、弾を撃って倒していく2Dシューティングゲーム。
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2024/9/5-11/9
 - グループ開発作品。学校の文化祭にて展示
-- wは主にタイトル画面とシステム、ボス戦を担当
+- 私は主にタイトル画面とシステム、ボス戦を担当
 - 下記のSPACE SHOOTINGを基に制作
 
 ### SPACE SHOOTING
 <img src="image/space.png" alt="SPACE SHOOTING">
 <img src="image/space2.png">
 
-GalaxySTELLAとそれほど違いはないため説明は省略
+GalaxySTELLAとそれほど違いはないためゲーム自体の説明は省略
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2024/8/23-8/30
+- 夏休み時に個人で制作した作品
+- webやネットの記事を参考にして制作
 
 #連絡先
-- E-mail[nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
+- E-mail [nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
