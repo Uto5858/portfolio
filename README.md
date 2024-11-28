@@ -1,7 +1,7 @@
 # Portfolio
 
 - 長﨑湧斗
-- 専門学校デジタルアーツ東京 ゲームプログラムコース 202x年卒業予定
+- 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
 
 ## 資格
 - ITパスポート試験合格
@@ -17,7 +17,7 @@
   - 利用歴半年
   - コンソールで簡単なデータ処理プログラムを開発可能
 - Python
-  - 利用歴1年
+  - 利用歴1.5年
   - 簡単なプログラムを開発可能
 
 ## 取り組んでいるテーマ
@@ -28,16 +28,20 @@
 <img src="image/galaxy.png" alt="GalaxySTELLA">
 <img src="image/galaxy4.png">
 
-弾を撃って侵略してくる地球外生命体を倒していく2Dシューティングゲーム
+侵略してくる地球外生命体を、弾を撃って倒していく2Dシューティングゲーム
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2024/9/5-11/9
-- グループ開発作品。学校の文化祭にて展示。
-- 下記のSPACE SHOOTINGを基に制作。
+- グループ開発作品。学校の文化祭にて展示
+- wは主にタイトル画面とシステム、ボス戦を担当
+- 下記のSPACE SHOOTINGを基に制作
 
 ### SPACE SHOOTING
 <img src="image/space.png" alt="SPACE SHOOTING">
 <img src="image/space2.png">
 
-GalaxySTELLAとあまり変わらないので割愛
+GalaxySTELLAとそれほど違いはないため説明は省略
 - 開発環境：Unity2020.3.4f1
 - 開発期間：2024/8/23-8/30
+
+#連絡先
+- E-mail[nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
