@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> dc5140b4f73ab67d97a0d95d1dad9cc6dc6cdea5
-
 - 長﨑湧斗
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
 
@@ -50,8 +45,4 @@
 - webやネットの記事を参考にして制作
 
 ## 連絡先
-<<<<<<< HEAD
-- E-mail [nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
-=======
-- E-mail [nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
->>>>>>> dc5140b4f73ab67d97a0d95d1dad9cc6dc6cdea5
+### E-mail [nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
