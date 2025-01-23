@@ -1,4 +1,3 @@
-# Portfolio
 
 - 長﨑湧斗
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2026年卒業予定
@@ -23,8 +22,8 @@
 ## 取り組んでいるテーマ
 1. オリジナルゲーム開発
 
-## 作品リスト
-### GalaxySTELLA
+### 作品リスト
+#### GalaxySTELLA
 <img src="image/galaxy.png" alt="GalaxySTELLA">
 <img src="image/galaxy4.png">
 
@@ -35,7 +34,7 @@
 - 私は主にタイトル画面とシステム、ボス戦を担当
 - 下記のSPACE SHOOTINGを基に制作
 
-### SPACE SHOOTING
+#### SPACE SHOOTING
 <img src="image/space.png" alt="SPACE SHOOTING">
 <img src="image/space2.png">
 
@@ -45,5 +44,5 @@ GalaxySTELLAとそれほど違いはないため、ゲームの概要は省略.
 - 夏休み時に個人で制作した作品
 - webやネットの記事を参考にして制作
 
-#連絡先
+## 連絡先
 - E-mail [nagasaki.datokyo@gmail.com](nagasaki.datokyo@gmail.com)
