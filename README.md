@@ -33,6 +33,7 @@
 - グループ開発作品。学校の文化祭にて展示
 - 私は主にタイトル画面とシステム、ボス戦を担当
 - 下記のSPACE SHOOTINGを基に制作
+- 現在、こちらのブラッシュアップ版を制作中
 
 #### SPACE SHOOTING
 <img src="image/space.png" alt="SPACE SHOOTING">
