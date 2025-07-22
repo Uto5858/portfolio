@@ -26,13 +26,16 @@
 
 ### 作品リスト
 #### VirusBuster
-- ウイルスからCPUを、制限時間守り続ける3Dのアクションゲーム。
+[VirusBuster](https://unityroom.com/games/virus)
+- ウイルスからCPUを、制限時間守り抜く3Dのアクションゲーム。
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025年6月～2025年7月
 - 個人製作作品
-- ネットの記事を参考にしたり、AIを活用して製作
+- BGM・SE:魔王魂様
+- [魔王魂様URL](https://maou.audio/)
 
 #### ハコニワールド(試作版)
+[ハコニワールド試作版](https://unityroom.com/games/hakoniworld)
 - 小さなマップを把握してギミックを解き、
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025年4月～2025年7月
@@ -41,6 +44,7 @@
 - 私は主にシーン遷移や、移動入力。UI制御、その他パラメータ処理を担当
 
 #### GalaxySTELLA
+[GalaxySTELLA](https://unityroom.com/games/galaste)
 <img src="image/galaxy.png" alt="GalaxySTELLA">
 <img src="image/galaxy4.png">
 
@@ -51,9 +55,9 @@
 - 制作人数３人
 - 私は主にタイトル画面とシステム、ボス戦を担当
 - 下記のSPACE SHOOTINGを基に制作
-- 現在、こちらのブラッシュアップ版を制作中
 
 #### SPACE SHOOTING
+[SPACE SHOOTING]()
 <img src="image/space.png" alt="SPACE SHOOTING">
 <img src="image/space2.png">
 
