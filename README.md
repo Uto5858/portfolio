@@ -40,7 +40,7 @@
 [ハコニワールド試作版](https://unityroom.com/games/hakoniworld)
 <img src="image/hakoni01.jpg" alt="ハコニワールド試作版">
 <img src="image/hakoni02.png">
-- 小さなマップを把握してギミックを解き、
+- 小さなマップを把握してギミックを解き、ゴールを目指すポップなアクションゲーム
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025年4月～2025年7月
 - グループ開発作品。卒業制作の作品
