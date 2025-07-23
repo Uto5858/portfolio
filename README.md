@@ -27,7 +27,7 @@
 ### 作品リスト
 #### VirusBuster
 [VirusBuster](https://unityroom.com/games/virus)
-<img src="image/virus01.png" alt="VirusBuster">
+<img src="image/virus01.jpg" alt="VirusBuster">
 <img src="image/virus02.png">
 - ウイルスからCPUを、制限時間守り抜く3Dのアクションゲーム。
 - 開発環境：Unity6000.0.44f1
